@@ -16,5 +16,5 @@ def main():
     print(f"Area: {area}")
 
 if __name__ == "__main__":
-    main()
+    main() # call main()
 
